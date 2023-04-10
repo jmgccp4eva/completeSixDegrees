@@ -12,7 +12,7 @@ This means that all of these actors have KBNs, but this does not necessarily mea
 
 For example, **Gary Sinise** has a KBN in the example as 5.  However, both he and **Kevin Bacon** appeared in *Apollo 13*, which means **Gary Sinise**'s true KBN is 1.
 
-**NOTE:** This repository is strictly the data collection phase.  
+**NOTE**: This repository is strictly the data collection phase.  
 
 After the data collection, there will be a few other repos that will be linked in this Readme file for:
 The actual processing of KBN in Python using Pandas, SQL, Neo4j
