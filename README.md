@@ -1,1 +1,2 @@
-
+# Phase One: 
+## Data Collection
